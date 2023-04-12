@@ -1,0 +1,24 @@
+{
+  "name": "grok",
+  "version": "1.0.0",
+  "description": "grokking coding interview patterns from educative.io",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sturgeonphillip/grok.git"
+  },
+  "keywords": [],
+  "author": "Phillip Sturgeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sturgeonphillip/grok/issues"
+  },
+  "homepage": "https://github.com/sturgeonphillip/grok#readme",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}
