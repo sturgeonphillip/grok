@@ -1,5 +1,5 @@
 import { recurse } from './sumOfSquaredDigits.js';
-
+console.log('recurse', recurse);
 export function isHappyNumber(n) {
   // init pointers that increment 1 and 2 steps
   let slow = n;
